@@ -14,6 +14,8 @@ Before the rounds start, there are 30 seconds of buying phase for guns and abili
 | Data Science Student at General Assembly | SQL & Relational Database Management TA @ University of Washington |
 | Languages: Azure Data Studio, VS Code, Python, SQL, Microsoft Power BI | Languages: Azure Data Studio, SQL, Microsoft Power BI, Lucid Chart |
 
+![Valorant Logo](file:///C:/Users/kyoun/Downloads/Site-logo.webp)
+
 <!--- PROBLEM STATEMENT --->
 As the world of E-Sports rises and more viewers are tuning into video game streamers, there is a major need for a fantasy league for professional gamers. What would the data model and design look like and how can we solve deep questions to predict upcoming Valorant competitions?
 
