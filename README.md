@@ -10,9 +10,6 @@ Before the rounds start, there are 30 seconds of buying phase for guns and abili
 | Kyoungho Kim          | Timothy Joo    |
 |-------------------|---------------|
 | Aspiring Data Scientist and Data Analyst | Project Management and Data Engineer |
-|-------------------|---------------|
 | Bachelor of Arts in Mathematics and Minor in Chinese | Bachelor of Science in Communications and Informatics |
-|-------------------|---------------|
 | Data Science Student at General Assembly | SQL & Relational Database Management TA @ University of Washington |
-|-------------------|---------------|
 | Languages: Azure Data Studio, VS Code, Python, SQL, Microsoft Power BI | Languages: Azure Data Studio, SQL, Microsoft Power BI, Lucid Chart |
